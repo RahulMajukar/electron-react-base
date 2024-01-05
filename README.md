@@ -5,3 +5,10 @@
 
 [Electron & React JS: Build a Native Chat App with Javascript
 ](https://www.udemy.com/course/electron-react-js-build-a-native-chat-app-with-javascript/?referralCode=F5BF439DB5494218B31C)
+
+
+# To Get the Build
+open Command promt as admin:
+cd /d D:\Class\electron-react-boilerplate
+give a command: npm run dist
+

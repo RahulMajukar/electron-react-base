@@ -8,7 +8,7 @@
 
 
 # To Get the Build
-open Command promt as admin:
-cd /d D:\Class\electron-react-boilerplate
-give a command: npm run dist
+1. open Command promt as admin:
+2. cd /d D:\Class\electron-react-boilerplate
+3. give a command: npm run dist
 
